@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1001028267585",
+    "firebase_url": "https://readonesia.firebaseio.com",
+    "project_id": "readonesia",
+    "storage_bucket": "readonesia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001028267585:android:aaa4e430cafc824e",
+        "android_client_info": {
+          "package_name": "com.dev.reef.readonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001028267585-9oamh717k10mqmobajjlgo2h598s6qsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.reef.readonesia",
+            "certificate_hash": "b0f18919f17c1bc801b773c2b57957ad20ce210f"
+          }
+        },
+        {
+          "client_id": "1001028267585-78pufabiouith5tp8003blpilc7jtqfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MmmwBFgMhRx7JP7y9ct1lAChkHqTQos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001028267585-78pufabiouith5tp8003blpilc7jtqfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
